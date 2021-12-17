@@ -17,7 +17,9 @@ import android.widget.Toast;
 import com.google.android.material.navigation.NavigationView;
 
 public class MainActivity extends AppCompatActivity {
-//..
+
+
+
     NavigationView navigationView;
     DrawerLayout drawerLayout;
     Toolbar toolbar;
